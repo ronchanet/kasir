@@ -1,13 +1,13 @@
 [
   {
     "id": "1713890001",
-    "nama": "Kaos Cotton Combed 30s Premium",
+    "nama": "Hitam Polos",
     "kategori": "Kaos Cotton 30s",
-    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta bray.",
-    "harga_beli": 25000,
-    "harga_jual": 45000,
+    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta.",
+    "harga_beli": 26000,
+    "harga_jual": 35000,
     "foto": "https://lh3.googleusercontent.com/u/0/d/1YCdzz4IaUrlgoTPc2XRJK-Z6Ori6IOQQ",
-    "sku": "RC-101"
+    "sku": "RC-197"
   },
   {
     "id": "1713890002",
@@ -28,5 +28,25 @@
     "harga_jual": 100000,
     "foto": "https://via.placeholder.com/300?text=Service+IT",
     "sku": "RC-909"
+  },
+  {
+    "id": "1776970586918",
+    "nama": "PUTIH POLOS",
+    "kategori": "Kaos Cotton 30s",
+    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta.",
+    "harga_beli": 26000,
+    "harga_jual": 35000,
+    "foto": "https://placehold.co/400?text=No+Image",
+    "sku": "RC-51"
+  },
+  {
+    "id": "1776970614422",
+    "nama": "MERAH POLOS",
+    "kategori": "Kaos Cotton 30s",
+    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta.",
+    "harga_beli": 26000,
+    "harga_jual": 35000,
+    "foto": "https://placehold.co/400?text=No+Image",
+    "sku": "RC-320"
   }
 ]
