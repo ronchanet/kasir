@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1713890001",
+    "nama": "Kaos Cotton Combed 30s Premium",
+    "kategori": "Kaos Cotton 30s",
+    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta bray.",
+    "harga_beli": 25000,
+    "harga_jual": 45000,
+    "foto": "https://raw.githubusercontent.com/username/repo/main/img/kaos-hitam.jpg",
+    "sku": "RC-101"
+  },
+  {
+    "id": "1713890002",
+    "nama": "Chicken Katsu Bento Box",
+    "kategori": "Chicken Katsu",
+    "deskripsi": "Katsu renyah dengan saus teriyaki spesial Ronchanet.",
+    "harga_beli": 15000,
+    "harga_jual": 25000,
+    "foto": "https://raw.githubusercontent.com/username/repo/main/img/katsu.jpg",
+    "sku": "RC-505"
+  },
+  {
+    "id": "1713890003",
+    "nama": "Jasa Install Windows 11 + Office",
+    "kategori": "Install Windows",
+    "deskripsi": "Proses cepat, bisa ditunggu, bonus aplikasi standar.",
+    "harga_beli": 0,
+    "harga_jual": 100000,
+    "foto": "https://via.placeholder.com/300?text=Service+IT",
+    "sku": "RC-909"
+  }
+]
