@@ -1,52 +1,21 @@
 [
   {
-    "id": "1713890001",
-    "nama": "Hitam Polos",
-    "kategori": "Kaos Cotton 30s",
-    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta.",
-    "harga_beli": 26000,
-    "harga_jual": 35000,
-    "foto": "https://lh3.googleusercontent.com/u/0/d/1YCdzz4IaUrlgoTPc2XRJK-Z6Ori6IOQQ",
-    "sku": "RC-197"
+    "id": "gh_101",
+    "nama": "Kaos Polos Cotton Combed",
+    "varian": [
+      { "warna": "Hitam", "size": "L", "beli": 35000, "jual": 55000, "stok": 50 },
+      { "warna": "Putih", "size": "XL", "beli": 35000, "jual": 55000, "stok": 30 }
+    ],
+    "harga_tampil": 55000,
+    "foto": ""
   },
   {
-    "id": "1713890002",
-    "nama": "Chicken Katsu Bento Box",
-    "kategori": "Chicken Katsu",
-    "deskripsi": "Katsu renyah dengan saus teriyaki spesial Ronchanet.",
-    "harga_beli": 15000,
-    "harga_jual": 25000,
-    "foto": "https://drive.usercontent.google.com/download?id=1YCdzz4IaUrlgoTPc2XRJK-Z6Ori6IOQQ&export=view&authuser=0",
-    "sku": "RC-505"
-  },
-  {
-    "id": "1713890003",
-    "nama": "Jasa Install Windows 11 + Office",
-    "kategori": "Install Windows",
-    "deskripsi": "Proses cepat, bisa ditunggu, bonus aplikasi standar.",
-    "harga_beli": 0,
-    "harga_jual": 100000,
-    "foto": "https://via.placeholder.com/300?text=Service+IT",
-    "sku": "RC-909"
-  },
-  {
-    "id": "1776970586918",
-    "nama": "PUTIH POLOS",
-    "kategori": "Kaos Cotton 30s",
-    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta.",
-    "harga_beli": 26000,
-    "harga_jual": 35000,
-    "foto": "https://placehold.co/400?text=No+Image",
-    "sku": "RC-51"
-  },
-  {
-    "id": "1776970614422",
-    "nama": "MERAH POLOS",
-    "kategori": "Kaos Cotton 30s",
-    "deskripsi": "Bahan adem, menyerap keringat, cocok untuk iklim Jakarta.",
-    "harga_beli": 26000,
-    "harga_jual": 35000,
-    "foto": "https://placehold.co/400?text=No+Image",
-    "sku": "RC-320"
+    "id": "gh_102",
+    "nama": "Hoodie Jumper Premium",
+    "varian": [
+      { "warna": "Navy", "size": "L", "beli": 80000, "jual": 125000, "stok": 12 }
+    ],
+    "harga_tampil": 125000,
+    "foto": ""
   }
 ]
