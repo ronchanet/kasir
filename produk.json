@@ -1,21 +1,146 @@
 [
   {
-    "id": "gh_101",
-    "nama": "Kaos Polos Cotton Combed",
+    "id": "gh_105",
+    "nama": "Cotton 24s",
     "varian": [
-      { "warna": "Hitam", "size": "L", "beli": 35000, "jual": 55000, "stok": 50 },
-      { "warna": "Putih", "size": "XL", "beli": 35000, "jual": 55000, "stok": 30 }
+      {
+        "warna": "HITAM",
+        "size": "S",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "HITAM",
+        "size": "M",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "HITAM",
+        "size": "L",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "HITAM",
+        "size": "XL",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      }
     ],
-    "harga_tampil": 55000,
+    "harga_tampil": 35000,
     "foto": ""
   },
   {
-    "id": "gh_102",
-    "nama": "Hoodie Jumper Premium",
+    "id": "gh_106",
+    "nama": "Cotton 24s",
     "varian": [
-      { "warna": "Navy", "size": "L", "beli": 80000, "jual": 125000, "stok": 12 }
+      {
+        "warna": "PUTIH",
+        "size": "S",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "PUTIH",
+        "size": "M",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "PUTIH",
+        "size": "L",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "PUTIH",
+        "size": "XL",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      }
     ],
-    "harga_tampil": 125000,
+    "harga_tampil": 35000,
+    "foto": ""
+  },
+  {
+    "id": "gh_107",
+    "nama": "Cotton 24s",
+    "varian": [
+      {
+        "warna": "MERAH",
+        "size": "S",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "MERAH",
+        "size": "M",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "MERAH",
+        "size": "L",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "MERAH",
+        "size": "XL",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      }
+    ],
+    "harga_tampil": 35000,
+    "foto": ""
+  },
+  {
+    "id": "gh_108",
+    "nama": "Cotton 24s",
+    "varian": [
+      {
+        "warna": "MAROON",
+        "size": "S",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "MAROON",
+        "size": "M",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "MAROON",
+        "size": "L",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      },
+      {
+        "warna": "MAROON",
+        "size": "XL",
+        "beli": 26000,
+        "jual": 35000,
+        "stok": 100
+      }
+    ],
+    "harga_tampil": 35000,
     "foto": ""
   }
 ]
