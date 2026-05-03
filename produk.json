@@ -192,22 +192,6 @@
     "foto": "https://drive.google.com/thumbnail?authuser=0&sz=w500&id=1zExhwb1bidiuv8j5JUUy9Lw5hKqh0MOm"
   },
   {
-    "id": "gh_118",
-    "nama": "KAOS POLOS COTTON 30S HITAM",
-    "varian": [
-      {"warna":"HITAM","size":"S","beli":26000,"jual":35000,"stok":100},
-      {"warna":"HITAM","size":"M","beli":26000,"jual":35000,"stok":100},
-      {"warna":"HITAM","size":"L","beli":26000,"jual":35000,"stok":100},
-      {"warna":"HITAM","size":"XL","beli":26000,"jual":35000,"stok":100},
-      {"warna":"HITAM","size":"2XL","beli":30000,"jual":40000,"stok":100},
-      {"warna":"HITAM","size":"3XL","beli":34000,"jual":45000,"stok":100},
-      {"warna":"HITAM","size":"4XL","beli":38000,"jual":50000,"stok":100},
-      {"warna":"HITAM","size":"5XL","beli":42000,"jual":55000,"stok":100}
-    ],
-    "harga_tampil": 35000,
-    "foto": "https://drive.google.com/thumbnail?authuser=0&sz=w500&id="
-  },
-  {
     "id": "gh_119",
     "nama": "KAOS POLOS COTTON 30S KUNING",
     "varian": [
