@@ -1,1129 +1,416 @@
 [
   {
     "id": "gh_105",
-    "nama": "Kaos Cotton 30s HITAM",
+    "nama": "KAOS POLOS COTTON 30S HITAM",
     "varian": [
-      { "warna": "HITAM", "size": "S", "beli": 26000, "jual": 35000, "stok": 100 },
-      { "warna": "HITAM", "size": "M", "beli": 26000, "jual": 35000, "stok": 100 },
-      { "warna": "HITAM", "size": "L", "beli": 26000, "jual": 35000, "stok": 100 },
-      { "warna": "HITAM", "size": "XL", "beli": 26000, "jual": 35000, "stok": 100 },
-      { "warna": "HITAM", "size": "2XL", "beli": 30000, "jual": 40000, "stok": 100 }
+      {"warna":"HITAM","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HITAM","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HITAM","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HITAM","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": "https://drive.google.com/thumbnail?authuser=0&sz=w500&id=19MNHV0RALNnWRCEJ6k5QmrU4eZErKyb4"
   },
   {
     "id": "gh_106",
-    "nama": "Kaos Cotton 30s PUTIH",
+    "nama": "KAOS POLOS COTTON 30S ABU_MISTY",
     "varian": [
-      {
-        "warna": "PUTIH",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "PUTIH",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "PUTIH",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "PUTIH",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"ABU_MISTY","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_MISTY","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_MISTY","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_MISTY","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_MISTY","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"ABU_MISTY","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"ABU_MISTY","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"ABU_MISTY","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
-    "foto": "https://drive.google.com/thumbnail?authuser=0&sz=w500&id=19MNHV0RALNnWRCEJ6k5QmrU4eZErKyb4"
+    "foto": ""
   },
   {
     "id": "gh_107",
-    "nama": "Kaos Cotton 30s NAVY",
+    "nama": "KAOS POLOS COTTON 30S ABU_TUA",
     "varian": [
-      {
-        "warna": "NAVY",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "NAVY",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "NAVY",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "NAVY",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"ABU_TUA","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_TUA","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_TUA","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_TUA","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ABU_TUA","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"ABU_TUA","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"ABU_TUA","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"ABU_TUA","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_108",
-    "nama": "Kaos Cotton 30s MERAH MARUN",
+    "nama": "KAOS POLOS COTTON 30S BACKGROUND-PUTIH",
     "varian": [
-      {
-        "warna": "MERAH MARUN",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MERAH MARUN",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MERAH MARUN",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MERAH MARUN",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"BACKGROUND-PUTIH","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"BACKGROUND-PUTIH","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_109",
-    "nama": "Kaos Cotton 30s BIRU BENHUR",
+    "nama": "KAOS POLOS COTTON 30S BIRU_BENHUR",
     "varian": [
-      {
-        "warna": "BIRU BENHUR",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU BENHUR",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU BENHUR",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU BENHUR",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"BIRU_BENHUR","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"BIRU_BENHUR","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_110",
-    "nama": "Kaos Cotton 30s HIJAU BOTOL",
+    "nama": "KAOS POLOS COTTON 30S BIRU_MUDA",
     "varian": [
-      {
-        "warna": "HIJAU BOTOL",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU BOTOL",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU BOTOL",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU BOTOL",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"BIRU_MUDA","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"BIRU_MUDA","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_111",
-    "nama": "Kaos Cotton 30s KUNING",
+    "nama": "KAOS POLOS COTTON 30S BIRU_TURKISH",
     "varian": [
-      {
-        "warna": "KUNING",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "KUNING",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "KUNING",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "KUNING",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"BIRU_TURKISH","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"BIRU_TURKISH","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_112",
-    "nama": "Kaos Cotton 30s ABU-ABU MISTY",
+    "nama": "KAOS POLOS COTTON 30S CREAM",
     "varian": [
-      {
-        "warna": "ABU-ABU MISTY",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "ABU-ABU MISTY",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "ABU-ABU MISTY",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "ABU-ABU MISTY",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"CREAM","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"CREAM","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"CREAM","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"CREAM","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"CREAM","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"CREAM","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"CREAM","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"CREAM","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_113",
-    "nama": "Kaos Cotton 30s COKLAT KOPI",
+    "nama": "KAOS POLOS COTTON 30S HIJAU_BOTOL",
     "varian": [
-      {
-        "warna": "COKLAT KOPI",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT KOPI",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT KOPI",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT KOPI",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"HIJAU_BOTOL","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HIJAU_BOTOL","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_114",
-    "nama": "Kaos Cotton 30s ABU-ABU MUDA",
+    "nama": "KAOS POLOS COTTON 30S HIJAU_FUJI",
     "varian": [
-      {
-        "warna": "ABU-ABU MUDA",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "ABU-ABU MUDA",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "ABU-ABU MUDA",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "ABU-ABU MUDA",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"HIJAU_FUJI","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HIJAU_FUJI","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_115",
-    "nama": "Kaos Cotton 30s MERAH CABAI",
+    "nama": "KAOS POLOS COTTON 30S HIJAU_STABILO",
     "varian": [
-      {
-        "warna": "MERAH CABAI",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MERAH CABAI",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MERAH CABAI",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MERAH CABAI",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"HIJAU_STABILO","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HIJAU_STABILO","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_116",
-    "nama": "Kaos Cotton 30s BIRU TURKIS",
+    "nama": "KAOS POLOS COTTON 30S HIJAU_TNI",
     "varian": [
-      {
-        "warna": "BIRU TURKIS",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU TURKIS",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU TURKIS",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU TURKIS",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"HIJAU_TNI","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HIJAU_TNI","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_117",
-    "nama": "Kaos Cotton 30s HIJAU ARMY",
+    "nama": "KAOS POLOS COTTON 30S HIJAU_TOSCA",
     "varian": [
-      {
-        "warna": "HIJAU ARMY",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU ARMY",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU ARMY",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU ARMY",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"HIJAU_TOSCA","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HIJAU_TOSCA","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_118",
-    "nama": "Kaos Cotton 30s OREN",
+    "nama": "KAOS POLOS COTTON 30S HITAM",
     "varian": [
-      {
-        "warna": "OREN",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "OREN",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "OREN",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "OREN",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"HITAM","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"HITAM","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"HITAM","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"HITAM","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"HITAM","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_119",
-    "nama": "Kaos Cotton 30s UNGU MUDA",
+    "nama": "KAOS POLOS COTTON 30S KUNING",
     "varian": [
-      {
-        "warna": "UNGU MUDA",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "UNGU MUDA",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "UNGU MUDA",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "UNGU MUDA",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"KUNING","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"KUNING","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"KUNING","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"KUNING","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_120",
-    "nama": "Kaos Cotton 30s SALEM",
+    "nama": "KAOS POLOS COTTON 30S KUNING_MUSTARD",
     "varian": [
-      {
-        "warna": "SALEM",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "SALEM",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "SALEM",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "SALEM",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"KUNING_MUSTARD","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"KUNING_MUSTARD","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_121",
-    "nama": "Kaos Cotton 30s DUSTY PINK",
+    "nama": "KAOS POLOS COTTON 30S LILAC",
     "varian": [
-      {
-        "warna": "DUSTY PINK",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "DUSTY PINK",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "DUSTY PINK",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "DUSTY PINK",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"LILAC","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"LILAC","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"LILAC","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"LILAC","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"LILAC","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"LILAC","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"LILAC","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"LILAC","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_122",
-    "nama": "Kaos Cotton 30s CREAM",
+    "nama": "KAOS POLOS COTTON 30S MAROON",
     "varian": [
-      {
-        "warna": "CREAM",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "CREAM",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "CREAM",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "CREAM",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"MAROON","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MAROON","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MAROON","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MAROON","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MAROON","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"MAROON","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"MAROON","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"MAROON","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_123",
-    "nama": "Kaos Cotton 30s BIRU MUDA",
+    "nama": "KAOS POLOS COTTON 30S MERAH",
     "varian": [
-      {
-        "warna": "BIRU MUDA",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU MUDA",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU MUDA",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU MUDA",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"MERAH","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MERAH","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MERAH","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MERAH","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"MERAH","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"MERAH","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"MERAH","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"MERAH","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_124",
-    "nama": "Kaos Cotton 30s HIJAU DAUN",
+    "nama": "KAOS POLOS COTTON 30S NAVY",
     "varian": [
-      {
-        "warna": "HIJAU DAUN",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU DAUN",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU DAUN",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU DAUN",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"NAVY","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"NAVY","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"NAVY","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"NAVY","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"NAVY","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"NAVY","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"NAVY","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"NAVY","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_125",
-    "nama": "Kaos Cotton 30s COKLAT MUDA",
+    "nama": "KAOS POLOS COTTON 30S ORANGE",
     "varian": [
-      {
-        "warna": "COKLAT MUDA",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT MUDA",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT MUDA",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT MUDA",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"ORANGE","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ORANGE","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ORANGE","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ORANGE","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"ORANGE","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"ORANGE","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"ORANGE","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"ORANGE","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_126",
-    "nama": "Kaos Cotton 30s BURGUNDY",
+    "nama": "KAOS POLOS COTTON 30S PINK",
     "varian": [
-      {
-        "warna": "BURGUNDY",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BURGUNDY",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BURGUNDY",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BURGUNDY",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"PINK","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"PINK","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"PINK","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"PINK","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_127",
-    "nama": "Kaos Cotton 30s BIRU LANGIT",
+    "nama": "KAOS POLOS COTTON 30S PINK_FANTA",
     "varian": [
-      {
-        "warna": "BIRU LANGIT",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU LANGIT",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU LANGIT",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU LANGIT",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"PINK_FANTA","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK_FANTA","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK_FANTA","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK_FANTA","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PINK_FANTA","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"PINK_FANTA","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"PINK_FANTA","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"PINK_FANTA","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_128",
-    "nama": "Kaos Cotton 30s HIJAU MINT",
+    "nama": "KAOS POLOS COTTON 30S PUTIH",
     "varian": [
-      {
-        "warna": "HIJAU MINT",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU MINT",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU MINT",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU MINT",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"PUTIH","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PUTIH","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PUTIH","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PUTIH","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"PUTIH","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"PUTIH","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"PUTIH","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"PUTIH","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_129",
-    "nama": "Kaos Cotton 30s UNGU TERONG",
+    "nama": "KAOS POLOS COTTON 30S TERRACOTTA",
     "varian": [
-      {
-        "warna": "UNGU TERONG",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "UNGU TERONG",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "UNGU TERONG",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "UNGU TERONG",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"TERRACOTTA","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"TERRACOTTA","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"TERRACOTTA","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"TERRACOTTA","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"TERRACOTTA","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"TERRACOTTA","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"TERRACOTTA","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"TERRACOTTA","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
   },
   {
     "id": "gh_130",
-    "nama": "Kaos Cotton 30s PEACH",
+    "nama": "KAOS POLOS COTTON 30S UNGU",
     "varian": [
-      {
-        "warna": "PEACH",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "PEACH",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "PEACH",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "PEACH",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
-    ],
-    "harga_tampil": 35000,
-    "foto": ""
-  },
-  {
-    "id": "gh_131",
-    "nama": "Kaos Cotton 30s KREM GADING",
-    "varian": [
-      {
-        "warna": "KREM GADING",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "KREM GADING",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "KREM GADING",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "KREM GADING",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
-    ],
-    "harga_tampil": 35000,
-    "foto": ""
-  },
-  {
-    "id": "gh_132",
-    "nama": "Kaos Cotton 30s BIRU DONGKER",
-    "varian": [
-      {
-        "warna": "BIRU DONGKER",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU DONGKER",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU DONGKER",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "BIRU DONGKER",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
-    ],
-    "harga_tampil": 35000,
-    "foto": ""
-  },
-  {
-    "id": "gh_133",
-    "nama": "Kaos Cotton 30s HIJAU LUMUT",
-    "varian": [
-      {
-        "warna": "HIJAU LUMUT",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU LUMUT",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU LUMUT",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "HIJAU LUMUT",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
-    ],
-    "harga_tampil": 35000,
-    "foto": ""
-  },
-  {
-    "id": "gh_134",
-    "nama": "Kaos Cotton 30s COKLAT SUSU",
-    "varian": [
-      {
-        "warna": "COKLAT SUSU",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT SUSU",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT SUSU",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "COKLAT SUSU",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
-    ],
-    "harga_tampil": 35000,
-    "foto": ""
-  },
-  {
-    "id": "gh_135",
-    "nama": "Kaos Cotton 30s MAROON",
-    "varian": [
-      {
-        "warna": "MAROON",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MAROON",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MAROON",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "MAROON",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
-    ],
-    "harga_tampil": 35000,
-    "foto": ""
-  },
-  {
-    "id": "gh_136",
-    "nama": "Kaos Cotton 30s TERAKOTA",
-    "varian": [
-      {
-        "warna": "TERAKOTA",
-        "size": "S",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "TERAKOTA",
-        "size": "M",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "TERAKOTA",
-        "size": "L",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      },
-      {
-        "warna": "TERAKOTA",
-        "size": "XL",
-        "beli": 26000,
-        "jual": 35000,
-        "stok": 100
-      }
+      {"warna":"UNGU","size":"S","beli":26000,"jual":35000,"stok":100},
+      {"warna":"UNGU","size":"M","beli":26000,"jual":35000,"stok":100},
+      {"warna":"UNGU","size":"L","beli":26000,"jual":35000,"stok":100},
+      {"warna":"UNGU","size":"XL","beli":26000,"jual":35000,"stok":100},
+      {"warna":"UNGU","size":"2XL","beli":30000,"jual":40000,"stok":100},
+      {"warna":"UNGU","size":"3XL","beli":34000,"jual":45000,"stok":100},
+      {"warna":"UNGU","size":"4XL","beli":38000,"jual":50000,"stok":100},
+      {"warna":"UNGU","size":"5XL","beli":42000,"jual":55000,"stok":100}
     ],
     "harga_tampil": 35000,
     "foto": ""
